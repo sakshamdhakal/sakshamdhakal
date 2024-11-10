@@ -1,4 +1,4 @@
-<h1 alignment = "center">I’m Saksham Dhakal</h1>
+<h1>I’m Saksham Dhakal</h1>
 <body>
   
 - 👀 I’m interested in AI
