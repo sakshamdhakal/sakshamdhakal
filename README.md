@@ -1,4 +1,4 @@
-<title><h1>👋 Hi, I’m Saksham Dhakal</h1></title>
+<h1>👋 Hi, I’m Saksham Dhakal</h1>
 <body>
   
 - 👀 I’m interested in AI
